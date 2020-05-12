@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+![](https://github.com/marcos-bah/bmi-calculator/blob/master/doc/bmi.gif)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
